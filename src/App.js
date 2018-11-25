@@ -10,7 +10,7 @@ class App extends Component {
             <img className="avatar" src={require("./avatar.JPG")} alt="avatar"/>
             <div className="intro">
               <h1 className="title">Hey, I'm Vasco de Graaff</h1>
-              <h1 className="subtitle">Student</h1>
+              <h1 className="subtitle">Student, 17</h1>
             </div>
 
           </div>
