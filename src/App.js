@@ -12,7 +12,11 @@ class App extends Component {
               <h1 className="title">Hey, I'm Vasco de Graaff</h1>
               <h1 className="subtitle">Student, 17</h1>
             </div>
-
+            {/* <div className="notification ">
+              <button className="delete"></button>
+              This website is a work in progress 🚧
+              <progress class="progress is-primary" value="65" max="100">65%</progress>
+            </div> */}
           </div>
           <div>
             <h2 className="title" style={{marginTop: '1rem'}}>Recent projects</h2>
@@ -23,7 +27,7 @@ class App extends Component {
                   {/* div to use later for aligning */}
                   <div>
                     <h3 className="title" >Albatross Cafe</h3>
-                    <h3 className="subtitle">resteraunt website</h3>
+                    <h3 className="subtitle">restaurant website</h3>
                   </div>
                 </a>
               </div>
